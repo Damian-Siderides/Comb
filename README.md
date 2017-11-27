@@ -1,3 +1,5 @@
+#Comb
+
 Comb.java is a program for generating every possible string
 
 to run this program please follow these simple steps
